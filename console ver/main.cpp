@@ -803,7 +803,7 @@
 			cout << "[Cath]: Ehhh. I don't really want to.\n"
 				 << endl;
 			Sleep(3000);
-			cout << "[MC]: Are you some sort of Introbear?\n"
+			cout << "[MC]: Are you some sort of Intropie?\n"
 				 << endl;
 			Sleep(3000);
 			cout << "[Cath]: It's called Introvert. How stupid are you really?\n"
@@ -1174,7 +1174,7 @@
 			cout << "[Abby]:  Yeah it does.\n"
 				 << endl;
 			Sleep(3000);
-			cout << "[MC]: Ugh shut up dork.\n"
+			cout << "[MC]: Ugh shut up whore.\n"
 				 << endl;
 			Sleep(3000);
 			cout << "[Abby]: Hey you can't say that to your beautiful sister.\n"
